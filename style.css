@@ -1,0 +1,29 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #c49d1d;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+.player1_div
+{
+    background-color: cadetblue;
+}
+
+.player2_div
+{
+    background-color: cadetblue;
+}
+
+.math_quiz
+{
+    background-color: gold;
+}
+
+.game_page
+{
+    background-color: blueviolet;
+}
